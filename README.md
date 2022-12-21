@@ -10,3 +10,4 @@ In this crash course, we will be addressing questions such as
 * How to compute shortest paths in a network?
 
 and we will do so by relying on the networkx (https://networkx.org/) Python package, that is specifically designed to generate built-in or ad-hoc networks and compute a plethora of features, indicators, indices according to the specific need of the user.
+In the current version, the crash course is written as a Jupyter notebook called ```networkx_crash_course```, while in future versions I plan to add small videos to increase clarity.
